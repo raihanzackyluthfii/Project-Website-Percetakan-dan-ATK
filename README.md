@@ -232,20 +232,6 @@ Setelah menjalankan seeder, gunakan kredensial berikut:
 |-------|-------|----------|
 | Admin | admin@gmail.com | 123 |
 
-## 📸 Screenshot
-
-### Halaman Login
-![Login Page](screenshot/login.png)
-
-### Dashboard Admin
-![Dashboard](screenshot/dashboard.png)
-
-### Manajemen Produk
-![Products](screenshot/products.png)
-
-### Detail Pesanan
-![Order Detail](screenshot/order-detail.png)
-
 ## 📊 Struktur Database
 
 ### Tabel: `users`
