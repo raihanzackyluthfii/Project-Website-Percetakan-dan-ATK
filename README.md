@@ -230,7 +230,7 @@ Setelah menjalankan seeder, gunakan kredensial berikut:
 
 | Role  | Email | Password |
 |-------|-------|----------|
-| Admin | admin@percetakan.com | password123 |
+| Admin | admin@gmail.com | 123 |
 
 ## 📸 Screenshot
 
