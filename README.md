@@ -402,15 +402,6 @@ User::create([
 ### Cara 2: Via Register
 Akses: `http://127.0.0.1:8000/register` dan isi form pendaftaran.
 
-## 🤝 Kontribusi
-
-Kontribusi selalu diterima! Silakan:
-
-1. Fork repository ini
-2. Buat branch fitur (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
 
 ## 📄 Lisensi
 
@@ -419,8 +410,8 @@ Project ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lan
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@raihanzackyluthfii](https://github.com/raihanzackyluthfii)
+- Email: raihanzacky515@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -428,13 +419,6 @@ Project ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lan
 - [Bootstrap](https://getbootstrap.com)
 - [Font Awesome](https://fontawesome.com)
 
-## 📞 Support
-
-Jika ada pertanyaan atau masalah:
-- Buka [Issue](https://github.com/username/percetakan-atk/issues)
-- Email: support@example.com
-
----
 
 ⭐ Jika project ini membantu, berikan star di GitHub!
 
